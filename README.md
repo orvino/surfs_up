@@ -24,8 +24,11 @@ December Statistics for the Temperature and Precipitation
 <img width="761" alt="Screen Shot 2022-02-20 at 10 13 09 AM" src="https://user-images.githubusercontent.com/91889241/154852355-ddc64239-b3f1-4db4-ba88-ec19e6b9b4a1.png">
 - The amount of data collected for December is 1,517 items versus 1,700 for June.  This disparity can lead to some of the standard deviation differences as well as some incomplete data, December std is 3.75 and June's is 3.26.  However, given Hawaii's tropical climate and location on the Tropic of Cancer, also leads to minimal temperature extremes and small seasonal differnces versus a more norther climate such as Minnesota.
 
-## Summary and Recommendations:
-
+## Summary:
+Based on this last request, temperature alone shows no discernable difference between the two months asked for the inquiry.  The other factor, based on the work done preciously on precipation should also be included on a decision if this location can support ice cream sales and surfing, and if there is a direct correlation between those items.
+To get a better handle on this, the investor needs to ask for additional queries to be made.  The first question relates to real estate in general and that is location.  It will not matter how nice the termperatures are or how litte percipation occurs, if it does not have high foot traffic and ease of access to get there from roads and beach access.  The next query should focus on this item to increase success in retail.
+The other query could be wind data.  Waves for surfing tend to be generated from wind power, and if this location is sheltered from the wind, surfing will not occur in any great capacity.
+With these two additional queries, the investor will have a more complete picture and scenarios of success for the location of the next surf and ice cream shop.
 
 
 
